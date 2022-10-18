@@ -17,5 +17,5 @@ The purpose of Order Entry is to be a simple enterprise application that allows 
  - Entity Framework Core 6.X
 
 ### Current Services
- - (ClientService)[ClientService/README.md]
- - (ItemService)[ItemService/README.md]
+ - [ClientService](ClientService/README.md)
+ - [ItemService](ItemService/README.md)
